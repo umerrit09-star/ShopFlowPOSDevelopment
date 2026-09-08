@@ -1,0 +1,10 @@
+{
+  "description": "Streamline retail operations with a multi-tenant POS solution designed for Pakistani businesses, featuring intuitive interfaces, robust reporting, and secure data management.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
